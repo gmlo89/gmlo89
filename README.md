@@ -9,5 +9,39 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/giovanni-m-lopez-orenday-686717149/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/giovanni-m-lopez-orenday-686717149/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+#### Languages:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
+![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
+
+
+#### Database:
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![SQLLite](https://img.shields.io/badge/-SQL%20Lite-333333?style=flat&logo=SQLlite)
+![Elasticsearch](https://img.shields.io/badge/-Elastich%20Search-333333?style=flat&logo=ElastichSearch)
+
+
+#### Technologies:
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+![VueJs](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=VueJs)
+![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+
+
+
+#### Tools:
+![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
+![Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=Office)
+![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=Digital%20Ocean)
+
+
+#### OS:
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
+
