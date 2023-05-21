@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovanni López</h1>
-<h3 align="center">A passionate full stack developer from México</h3>
+<h3 align="center">Full-stack web developer (Laravel & VueJs) from México with a passion for creating amazing software that businesses can use to increase sales, automate processes, and troubleshoot. </h3>
 
 - 💬 Ask me about **Vue & Laravel**
 
